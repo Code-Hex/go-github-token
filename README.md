@@ -1,6 +1,6 @@
 # go-github-token
 [![GoDoc](https://godoc.org/github.com/Code-Hex/go-github-token?status.svg)](https://godoc.org/github.com/Code-Hex/go-github-token) [![Go Report Card](https://goreportcard.com/badge/github.com/Code-Hex/go-github-token)](https://goreportcard.com/report/github.com/Code-Hex/go-github-token)  
-Client for GitHub access token written in Go.  
+Very easy to get github access token library written in Go.  
 This is a library that can get github personal access token by entering github's username and password (also two factor code).
 
 # Install
